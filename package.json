@@ -5,7 +5,7 @@
   "main": "dist/ng2-material.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:justindujardin/ng2-material.git"
+    "url": "git@github.com:panaali/ng2-material.git"
   },
   "author": "Justin DuJardin <justin@dujardinconsulting.com>",
   "license": "MIT",
